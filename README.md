@@ -7,7 +7,7 @@ How are you doing? Thank you for dropping by, if I am not coding or doing school
 <ul>
   <li> Linux Enthusiast</li>
   <li> Tiling Window Manager Fanboi </li>
-  <li> Trying to lean Machine Learning and Rust </li>
+  <li> Trying to learn Machine Learning and Rust </li>
   <li> Have done some Cyber Security Competition </li>
   <li> Full Stack Experience </li>
   </ul>
