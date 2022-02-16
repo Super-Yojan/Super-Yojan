@@ -1,5 +1,5 @@
 <div >
-<img align="right" src="https://c.tenor.com/om0-IewhKx0AAAAC/luffy-child.gif">
+<img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ohLHQOSbIEdiY4ue3t__tAHaEI%26pid%3DApi%26h%3D160&f=1">
   <h1 align="center"> Hey there, I'm <a href="https://drmoscovium.net">Yojan</a></h1>
 How are you doing? Thank you for dropping by, if I am not coding or doing school work. I am either watching anime, or ricing.
   
