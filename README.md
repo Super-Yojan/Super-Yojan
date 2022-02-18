@@ -45,7 +45,7 @@ Not a whole lot active but here are few.
 
 <div>
 <h1 align="center"> Stats</h1>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Yojan&theme=dracula">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Yojan&theme=dracula"> -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Super-Yojan&count_private=true&show_icons=true&theme=dracula">
   <br>
