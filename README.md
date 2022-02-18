@@ -49,5 +49,5 @@ Not a whole lot active but here are few.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Super-Yojan&count_private=true&show_icons=true&theme=dracula">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=drMoscovium&theme=dracula">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Super-Yojan&theme=dracula&date_format=M%20j%5B%2C%20Y%5D">
 </div>
