@@ -23,7 +23,7 @@ Not a whole lot active but here are few.
 
 <div>
   <h1 align="center">Programming Language | Technology</h1>
-  <img align="left" src="https://c.tenor.com/JPX5iWzkrfQAAAAC/akudama-drive-anime.gif">
+  <img align="left" src="https://64.media.tumblr.com/ba7c260ef9416de82bf39fc904e983b4/tumblr_na4eugToNe1s5fa4co2_500.gif">
   <img  src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg">
     <img  src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg">
     <img  src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
