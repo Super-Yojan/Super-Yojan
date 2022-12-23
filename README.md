@@ -1,6 +1,6 @@
 <div >
 <img align="right" src="https://c.tenor.com/om0-IewhKx0AAAAC/luffy-child.gif">
-  <h1 align="center"> Hey there, I'm <a href="https://drmoscovium.net">Yojan</a></h1>
+  <h1 align="center"> Hey there, I'm <a href="https://git.drmoscovium.xyz">Yojan</a></h1>
 How are you doing? Thank you for dropping by, if I am not coding or doing school work. I am either watching anime, or ricing.
   
   Here are few things about me.
